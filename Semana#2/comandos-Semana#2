@@ -1,0 +1,14 @@
+git clone
+mkdir semana#2
+cd semana#2
+nano preguntas-Semana#2
+nano comandos-Semana#2
+nano reflexion-Semana#2
+ls
+Cd ..
+git add .
+git commit -m "Actividad semana#2"
+git config -global user.name "Juan pablo Pajaro"
+git config -global user.email "juanppajaro@gmail.com"
+git commit -m "Actividad Semana#2"
+git push

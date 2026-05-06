@@ -1,0 +1,2 @@
+El uso de la terminal por parte de los programadores para navegar y organizar archivos de un proyecto de programación, es porque brinda velocidad y eficiencia para navegar entre carpetas,organiza mejor la estructura de nuestro proyecto, limpia y mantiene el proyecto, busca y filtra entre carpetas y brinda más control y menos errores al momento de desarrollar nuestro proyecto.
+Entonces la terminal se usa para navegar y organizar archivos en programación porque es la forma más directa de hablar con tu proyecto.
