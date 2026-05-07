@@ -1,0 +1,2 @@
+porque permite mantener un registro histórico de los cambios hechos, lo que resulta primordial para detectar errores, colaborar de manera efectiva y garantizar la integridad de niestro proyecto. 
+Tambien nos brinda una trazabilidad, transparencia y seguridad que aportan a cualquier proyecto que desarrollemos.GIT ofrece un sistema de control de versiones robusto y altamente eficiente, se vuelve esencial para mantener la calidad y la coherencia en el desarrollo de programas.

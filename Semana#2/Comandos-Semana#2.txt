@@ -1,0 +1,13 @@
+git clone
+cd Programadores-Para-la-paz-JPL
+mkdir Semana#2
+cd Semana#2
+nano Preguntas-Semana#2
+nano Reflexion-Semana#2
+nano Comandos-Semana#2
+ls
+cd ..
+git add .
+git commit -m "Actividad Semana 2"
+git Push
+

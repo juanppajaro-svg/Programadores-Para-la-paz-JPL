@@ -2,7 +2,11 @@ Respuesta Pregunta 1
 B
 
 Respuesta Pregunta 2
-C
+B
 
 Respuesta Pregunta 3
+C
+
+Respues Pregunta 4
 B
+
